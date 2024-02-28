@@ -1,7 +1,8 @@
 - 👋 Hi, I’m william @wlage-zg
 - 👀 I’m interested in tech
-- 🌱 I’m always learning every day
+- 🌱 I’m always learning
 - 📫 How to reach me ...
+
 😄 ⚡
 
 <!---
